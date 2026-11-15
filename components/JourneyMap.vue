@@ -159,9 +159,10 @@ const labels = computed(() => {
   const order = [...markers.value].sort((a, b) => Number(b.active) - Number(a.active))
   const out = []
   const flip = { left: 'right', right: 'left', top: 'bottom', bottom: 'top' } as const
+  const minGap = 42
   for (const m of order) {
     if (!m.inView || !m.reached) continue
-    if (placed.some(([x, y]) => Math.hypot(x - m.x, y - m.y) < 30)) continue
+    if (placed.some(([x, y]) => Math.hypot(x - m.x, y - m.y) < minGap)) continue
     placed.push([m.x, m.y])
     const first = stops.value[m.idx[0]]
     const time = m.idx.map(i => stops.value[i].time).join(' · ')

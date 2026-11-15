@@ -8,7 +8,7 @@ exportFilename: six-grand-endless-wonders
 
 # Six Grand, Endless Wonders
 
-<p class="!opacity-95" style="text-shadow: 0 2px 10px rgba(0,0,0,.9)">3-Day Northern to Central Taiwan Cultural Expedition</p>
+<p class="!opacity-95" style="text-shadow: 0 2px 10px rgba(0,0,0,.9)">Team Taiwan</p>
 
 **Team Members:** 何宣辰、阮紫瑄、曾筠淇、張詠皓、麥樂筠
 
@@ -24,8 +24,8 @@ class: text-sm
 
 ## Historic Temples & Lantern Skies
 
-<div class="grid grid-cols-[1fr_230px] gap-6 mt-3">
-<div>
+<div class="grid grid-cols-[1.35fr_220px] gap-8 mt-3">
+<div class="pr-2">
 
 - **07:00 – 11:00｜Ximending & Longshan Temple**
   - Breakfast at **Yongfu Egg Pancake** (Exit 1, MRT Ximen; NT$50–80).
@@ -39,10 +39,10 @@ class: text-sm
 > **Day 1 Estimated Cost:** ~ NT$ 1,531 / person
 
 </div>
-<div class="flex flex-col gap-2">
-  <Pic src="/photos/longshan.jpg" label="Bangka Longshan Temple" class="h-28" />
-  <Pic src="/photos/shifen.jpg" label="Shifen Old Street · Sky Lanterns" class="h-28" />
-  <Pic src="/photos/ningxia.jpg" label="Ningxia Night Market" class="h-28" />
+<div class="flex flex-col gap-4">
+  <Pic src="/photos/longshan.jpg" label="Bangka Longshan Temple" class="h-26" />
+  <Pic src="/photos/shifen.jpg" label="Shifen Old Street · Sky Lanterns" class="h-26" />
+  <Pic src="/photos/ningxia.jpg" label="Ningxia Night Market" class="h-26" />
 </div>
 </div>
 
@@ -78,8 +78,8 @@ class: text-sm
 
 ## Urban Icons & Cultural Clusters
 
-<div class="grid grid-cols-[1fr_230px] gap-6 mt-3">
-<div>
+<div class="grid grid-cols-[1.35fr_220px] gap-8 mt-3">
+<div class="pr-2">
 
 - **09:00–11:30｜Xinyi District:** Visit **Four Four South Village** for panoramic **Taipei 101** photos.
 - **12:00–14:30｜Southbound Coach:** Intercity coach from Taipei Bus Station to Taichung (~2.5 hrs).
@@ -98,10 +98,10 @@ class: text-sm
 
 </div>
 </div>
-<div class="flex flex-col gap-2">
-  <Pic src="/photos/fourfour.jpg" label="Four Four South Village × Taipei 101" class="h-28" />
-  <Pic src="/photos/miyahara.jpg" label="Miyahara Eye Hospital" class="h-28" />
-  <Pic src="/photos/shenji.jpg" label="Shenji New Village" class="h-28" />
+<div class="flex flex-col gap-4">
+  <Pic src="/photos/fourfour.jpg" label="Four Four South Village × Taipei 101" class="h-26" />
+  <Pic src="/photos/miyahara.jpg" label="Miyahara Eye Hospital" class="h-26" />
+  <Pic src="/photos/shenji.jpg" label="Shenji New Village" class="h-26" />
 </div>
 </div>
 
@@ -283,8 +283,6 @@ class: text-center
 # Thank You for Listening!
 
 ### Six Grand, Endless Wonders
-
-We welcome any questions about our itinerary, cultural highlights, or budget planning.
 
 **Presented by:** 何宣辰、阮紫瑄、曾筠淇、張詠皓、麥樂筠
 
