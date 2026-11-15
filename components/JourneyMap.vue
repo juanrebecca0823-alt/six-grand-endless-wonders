@@ -123,7 +123,9 @@ const legs = computed(() => {
     const t = current ? progress.value : 1
     const p = partial(q, Math.max(t, 0.001))
     const m = modes[stops.value[i].leg!.mode]
-    out.push({ i, d: p.d, end: p.end, mode: stops.value[i].leg!.mode, color: m.color, current })
+    const time = stops.value[i].leg?.note ?? ''
+    const midpoint = [(q.a[0] + q.b[0]) / 2, (q.a[1] + q.b[1]) / 2] as [number, number]
+    out.push({ i, d: p.d, end: p.end, mode: stops.value[i].leg!.mode, color: m.color, current, time, midpoint })
   }
   return out
 })
@@ -239,6 +241,10 @@ const landTransform = computed(() => `translate(${-cam.x * scale.value},${-cam.y
         </g>
       </svg>
 
+      <template v-for="l in legs" :key="`time-${l.i}`">
+        <div v-if="l.time" class="route-time" :style="{ left: `${l.midpoint[0]}px`, top: `${l.midpoint[1]}px` }">{{ l.time }}</div>
+      </template>
+
       <!-- stop markers -->
       <div
         v-for="m in markers" v-show="m.inView" :key="m.key" class="pin"
@@ -308,6 +314,10 @@ const landTransform = computed(() => `translate(${-cam.x * scale.value},${-cam.y
 .tag b { display: block; font-size: 8.5px; letter-spacing: .08em; text-transform: uppercase; color: #92400e; font-weight: 600; }
 .tag.active { background: #1e293b; color: #fff; }
 .tag.active b { color: #fcd34d; }
+
+.route-time { position: absolute; transform: translate(-50%, -50%); padding: 2px 6px; border-radius: 999px;
+  background: rgba(255,255,255,.9); border: 1px solid #d1d5db; color: #7c2d12; font-size: 8.5px; font-weight: 700;
+  letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; box-shadow: 0 2px 6px rgba(15, 23, 42, .1); }
 
 .vehicle { position: absolute; width: 26px; height: 26px; margin: -13px 0 0 -13px; border-radius: 50%; color: #fff;
   display: grid; place-items: center; font-size: 15px; border: 2px solid #fff; box-shadow: 0 2px 6px rgba(0, 0, 0, .3); }

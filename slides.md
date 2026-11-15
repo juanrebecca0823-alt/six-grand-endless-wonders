@@ -84,7 +84,7 @@ class: text-sm
 - **09:00–11:30｜Xinyi District:** Visit **Four Four South Village** for panoramic **Taipei 101** photos.
 - **12:00–14:30｜Southbound Coach:** Intercity coach from Taipei Bus Station to Taichung (~2.5 hrs).
 - **14:30–16:30｜Miyahara Ophthalmology:** Drop bags at hostel; red-brick heritage & signature ice cream.
-- **16:30–21:00｜Shenji New Village & Greenway:** Artisan markets in renovated dorms & evening stroll at Park Lane by CMP.
+- **16:30–21:00｜Shenji New Village & Greenway:** Artisan markets in renovated dorms & evening stroll at Taichung Eslite Park Lane.
 
 <div class="text-xs [&_td]:!py-1 [&_th]:!py-1">
 
