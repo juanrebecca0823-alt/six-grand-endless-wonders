@@ -29,7 +29,8 @@ export const journeys: Record<number, Stop[]> = {
     { name: 'Longshan Temple', time: '08:30', lon: 121.4999, lat: 25.0372, thumb: '/photos/longshan.jpg', side: 'bottom', leg: { mode: 'walk', note: 'Walk · ~18 min' }, effect: 'jiaobei' },
     { name: 'Shifen Old Street', time: 'Afternoon', lon: 121.7756, lat: 25.0418, thumb: '/photos/shifen.jpg', side: 'bottom', leg: { mode: 'train', note: 'TRA · ~1 hr' } },
     { name: 'Jiufen Old Street', time: 'Dusk', lon: 121.8437, lat: 25.1093, thumb: '/jiufen.jpg', side: 'left', leg: { mode: 'bus', note: 'Bus · ~1 hr' } },
-    { name: 'Ningxia Night Market', time: 'Evening', lon: 121.5153, lat: 25.0563, thumb: '/photos/ningxia.jpg', side: 'top', leg: { mode: 'bus', note: 'Bus · ~1 hr' } },
+    { name: 'Changshengtang TCM (Acupuncture)', time: 'Evening', lon: 121.5202, lat: 25.0578, thumb: '/photos/acupuncture.jpg', side: 'right', leg: { mode: 'bus', note: 'Bus · ~1 hr' } },
+    { name: 'Ningxia Night Market', time: 'Night', lon: 121.5153, lat: 25.0563, thumb: '/photos/ningxia.jpg', side: 'left', leg: { mode: 'walk', note: 'Walk · ~8 min' } },
   ],
   2: [
     { name: 'Four Four South Village', time: '09:00', lon: 121.5617, lat: 25.0312, thumb: '/photos/fourfour.jpg', side: 'left' },

@@ -18,7 +18,7 @@ Cover: Jiufen Old Street at night — Sunkenbean (CC BY-SA 4.0), via Wikimedia C
 </Credit>
 
 ---
-clicks: 6
+clicks: 7
 ---
 
 ### Day 01 · Journey Map
@@ -28,7 +28,7 @@ clicks: 6
 <JourneyMap :day="1" />
 
 <Credit>
-Yonghe Soy Milk: KQuhen (CC BY-SA 4.0), via Wikimedia Commons
+Yonghe Soy Milk: KQuhen (CC BY-SA 4.0) · Acupuncture: Kyle Hunter (Public Domain) — via Wikimedia Commons
 </Credit>
 
 ---
