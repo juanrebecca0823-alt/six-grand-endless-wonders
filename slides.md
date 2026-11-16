@@ -66,7 +66,7 @@ class: text-sm
 </div>
 
 <Credit>
-Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: xiquinhosilva (CC BY 2.0) · Ningxia: 迷惘的人生 (CC BY-SA 2.0) — via Wikimedia Commons
+Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: C.L. Kao (CC BY-SA 3.0) · Ningxia: 迷惘的人生 (CC BY-SA 2.0) — via Wikimedia Commons
 </Credit>
 
 ---
@@ -264,7 +264,7 @@ class: text-sm
 </div>
 
 <Credit>
-Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: xiquinhosilva (CC BY 2.0) · Ningxia: 迷惘的人生 (CC BY-SA 2.0) — via Wikimedia Commons
+Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: C.L. Kao (CC BY-SA 3.0) · Ningxia: 迷惘的人生 (CC BY-SA 2.0) — via Wikimedia Commons
 </Credit>
 
 ---
