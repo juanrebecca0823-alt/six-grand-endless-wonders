@@ -66,7 +66,7 @@ clicks: 4
 
 ## Jiufen Old Street at Dusk
 
-<img src="/jiufen.jpg" class="h-72 mx-auto rounded-lg shadow-lg" />
+<img :src="$asset('/jiufen.jpg')" class="h-72 mx-auto rounded-lg shadow-lg" />
 
 *Photo / Taken by our group*
 
@@ -184,9 +184,10 @@ clicks: 4
 
 ## Lukang Historic Red-Brick Street
 
-<img src="/lukang.jpg" class="h-72 mx-auto rounded-lg shadow-lg" />
-
-*Photo / AI-Generated Scene Illustration*
+<div class="flex flex-col items-center">
+  <img :src="$asset('/lukang.jpg')" class="h-72 mx-auto rounded-lg shadow-lg" />
+  <p class="!my-0 mt-2 text-xs italic">Photo / AI-Generated Scene Illustration</p>
+</div>
 
 ---
 class: text-sm
