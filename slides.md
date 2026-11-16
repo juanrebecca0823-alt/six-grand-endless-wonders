@@ -18,6 +18,20 @@ Cover: Jiufen Old Street at night — Sunkenbean (CC BY-SA 4.0), via Wikimedia C
 </Credit>
 
 ---
+clicks: 6
+---
+
+### Day 01 · Journey Map
+
+## Temples, Lanterns & a Mountain Town
+
+<JourneyMap :day="1" />
+
+<Credit>
+Yonghe Soy Milk: KQuhen (CC BY-SA 4.0), via Wikimedia Commons
+</Credit>
+
+---
 class: text-sm
 ---
 
@@ -59,27 +73,11 @@ Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: xiquinhosilva (CC
 clicks: 6
 ---
 
-### Day 01 · Journey Map
+### Day 02 · Journey Map
 
-## Temples, Lanterns & a Mountain Town
+## From Taipei Down to Taichung
 
-<JourneyMap :day="1" />
-
-<Credit>
-Yonghe Soy Milk: KQuhen (CC BY-SA 4.0), via Wikimedia Commons
-</Credit>
-
----
-transition: fade
----
-
-### Day 01 · Scene Preview
-
-## Jiufen Old Street at Dusk
-
-<img :src="$asset('/jiufen.jpg')" class="h-72 mx-auto rounded-lg shadow-lg" />
-
-*Photo / Taken by our group*
+<JourneyMap :day="2" />
 
 ---
 class: text-sm
@@ -125,16 +123,6 @@ Four Four South Village: Hal Maa (CC BY-SA 4.0) · Miyahara: YangChen(TW) (CC BY
 </Credit>
 
 ---
-clicks: 6
----
-
-### Day 02 · Journey Map
-
-## From Taipei Down to Taichung
-
-<JourneyMap :day="2" />
-
----
 
 ### Day 02 · Route & Local Delicacy
 
@@ -150,6 +138,16 @@ clicks: 6
     <p class="!my-1 text-xs italic">Photo / Taken by our group</p>
   </div>
 </div>
+
+---
+clicks: 5
+---
+
+### Day 03 · Journey Map
+
+## Lukang Day Trip & Airport Run
+
+<JourneyMap :day="3" />
 
 ---
 class: text-sm
@@ -186,16 +184,6 @@ class: text-sm
 <Credit>
 Tianhou Temple: Foxy Who (CC BY-SA 3.0) · Nine-Turns Lane: David Stanley (CC BY 2.0) — via Wikimedia Commons
 </Credit>
-
----
-clicks: 5
----
-
-### Day 03 · Journey Map
-
-## Lukang Day Trip & Airport Run
-
-<JourneyMap :day="3" />
 
 ---
 transition: fade
