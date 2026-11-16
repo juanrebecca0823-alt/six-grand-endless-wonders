@@ -70,7 +70,7 @@ Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: xiquinhosilva (CC
 </Credit>
 
 ---
-clicks: 6
+clicks: 7
 ---
 
 ### Day 02 · Journey Map
@@ -78,6 +78,10 @@ clicks: 6
 ## From Taipei Down to Taichung
 
 <JourneyMap :day="2" />
+
+<Credit>
+Taipei Bus Station: Chen Hao Hsuan (CC BY 2.0), via Wikimedia Commons
+</Credit>
 
 ---
 class: text-sm

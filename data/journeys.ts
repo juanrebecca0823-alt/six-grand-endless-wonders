@@ -32,8 +32,9 @@ export const journeys: Record<number, Stop[]> = {
     { name: 'Ningxia Night Market', time: 'Evening', lon: 121.5153, lat: 25.0563, thumb: '/photos/ningxia.jpg', side: 'top', leg: { mode: 'bus', note: 'Bus · ~1 hr' } },
   ],
   2: [
-    { name: 'Four Four South Village', time: '09:00', lon: 121.5617, lat: 25.0312, thumb: '/photos/fourfour.jpg', side: 'right' },
-    { name: 'Taipei Bus Station', time: '12:00', lon: 121.5175, lat: 25.0492, thumb: '/photos/taipei101.jpg', side: 'left', leg: { mode: 'walk', note: 'MRT · ~25 min' } },
+    { name: 'Four Four South Village', time: '09:00', lon: 121.5617, lat: 25.0312, thumb: '/photos/fourfour.jpg', side: 'left' },
+    { name: 'Taipei 101', time: '10:30', lon: 121.5645, lat: 25.0339, thumb: '/photos/taipei101.jpg', side: 'right', leg: { mode: 'walk', note: 'Walk · ~10 min' } },
+    { name: 'Taipei Bus Station', time: '12:00', lon: 121.5175, lat: 25.0492, thumb: '/photos/taipei-bus-station.jpg', side: 'left', leg: { mode: 'walk', note: 'MRT · ~25 min' } },
     { name: 'Miyahara Eye Hospital', time: '14:30', lon: 120.6838, lat: 24.1375, thumb: '/photos/miyahara.jpg', side: 'right', leg: { mode: 'coach', note: 'Coach · ~2.5 hrs' } },
     { name: 'Shenji New Village', time: '16:30', lon: 120.6627, lat: 24.1446, thumb: '/photos/shenji.jpg', side: 'left', leg: { mode: 'bus', note: 'Bus · ~20 min' } },
     { name: 'Taichung Eslite Park Lane', time: 'Evening', lon: 120.6634, lat: 24.1515, thumb: '/photos/shenji.jpg', side: 'left', leg: { mode: 'walk', note: 'Walk · ~15 min' } },
