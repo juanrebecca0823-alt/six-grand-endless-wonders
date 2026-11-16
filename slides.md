@@ -80,7 +80,7 @@ clicks: 7
 <JourneyMap :day="2" />
 
 <Credit>
-Taipei Bus Station: Chen Hao Hsuan (CC BY 2.0), via Wikimedia Commons
+Taipei 101: AngMoKio (CC BY-SA 3.0) · Taipei Bus Station: Chen Hao Hsuan (CC BY 2.0) — via Wikimedia Commons
 </Credit>
 
 ---
