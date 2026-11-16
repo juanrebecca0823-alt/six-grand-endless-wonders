@@ -297,6 +297,45 @@ Four Four South Village: Hal Maa (CC BY-SA 4.0) · Shenji: Wpcpey (CC BY 4.0) ·
 </Credit>
 
 ---
+class: text-xs
+---
+
+### References & Attributions
+
+## Photo Credits & Sources
+
+<div class="grid grid-cols-2 gap-x-6 gap-y-1.5 mt-3 leading-snug">
+<div>
+
+**Cover & Day 1**
+- **Jiufen Cover:** Sunkenbean (CC BY-SA 4.0), Wikimedia Commons
+- **Yonghe Soy Milk:** KQuhen (CC BY-SA 4.0), Wikimedia Commons
+- **Bangka Longshan Temple:** CEphoto, Uwe Aranas (CC BY-SA 3.0), Wikimedia Commons
+- **Shifen Old Street:** C.L. Kao (CC BY-SA 3.0), Wikimedia Commons
+- **Jiufen Old Street:** Taken by our group
+- **TCM Acupuncture:** Kyle Hunter (Public Domain), Wikimedia Commons
+- **Ningxia Night Market:** 迷惘的人生 (CC BY-SA 2.0), Wikimedia Commons
+
+</div>
+<div>
+
+**Day 2, Day 3 & Closing**
+- **Four Four South Village:** Hal Maa (CC BY-SA 4.0), Wikimedia Commons
+- **Taipei 101:** AngMoKio (CC BY-SA 3.0), Wikimedia Commons
+- **Taipei Bus Station:** Chen Hao Hsuan (CC BY 2.0), Wikimedia Commons
+- **Miyahara Eye Hospital:** YangChen(TW) (CC BY 2.0), Wikimedia Commons
+- **Miyahara Ice Cream:** Taken by our group
+- **Shenji New Village:** Wpcpey (CC BY 4.0), Wikimedia Commons
+- **Lukang Tianhou Temple:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
+- **Nine-Turns Lane:** David Stanley (CC BY 2.0), Wikimedia Commons
+- **Lukang Red-Brick Street:** AI-Generated Scene Illustration
+- **Taipei Skyline (Closing):** Man Ng (CC BY 2.0), Wikimedia Commons
+- **Taiwan Map Boundaries:** MOI NLSC (OGDL 1.0) via taiwan-atlas
+
+</div>
+</div>
+
+---
 layout: cover
 background: /photos/skyline.jpg
 class: text-center
