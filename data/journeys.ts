@@ -13,6 +13,7 @@ export interface Stop {
   /** 地圖上標籤放哪一側 */
   side?: 'left' | 'right' | 'top' | 'bottom'
   leg?: { mode: Mode, note: string }
+  effect?: 'jiaobei'
 }
 
 export const modes: Record<Mode, { label: string, color: string, icon: string }> = {
@@ -24,7 +25,8 @@ export const modes: Record<Mode, { label: string, color: string, icon: string }>
 
 export const journeys: Record<number, Stop[]> = {
   1: [
-    { name: 'Ximending & Longshan Temple', time: '07:00', lon: 121.5035, lat: 25.0397, thumb: '/photos/longshan.jpg', side: 'bottom' },
+    { name: 'Ximending (Yonghe Soy Milk)', time: '07:00', lon: 121.5078, lat: 25.0422, thumb: '/photos/yonghe.jpg', side: 'top' },
+    { name: 'Longshan Temple', time: '08:30', lon: 121.4999, lat: 25.0372, thumb: '/photos/longshan.jpg', side: 'bottom', leg: { mode: 'walk', note: 'Walk · ~18 min' }, effect: 'jiaobei' },
     { name: 'Shifen Old Street', time: 'Afternoon', lon: 121.7756, lat: 25.0418, thumb: '/photos/shifen.jpg', side: 'bottom', leg: { mode: 'train', note: 'TRA · ~1 hr' } },
     { name: 'Jiufen Old Street', time: 'Dusk', lon: 121.8437, lat: 25.1093, thumb: '/jiufen.jpg', side: 'left', leg: { mode: 'bus', note: 'Bus · ~1 hr' } },
     { name: 'Ningxia Night Market', time: 'Evening', lon: 121.5153, lat: 25.0563, thumb: '/photos/ningxia.jpg', side: 'top', leg: { mode: 'bus', note: 'Bus · ~1 hr' } },

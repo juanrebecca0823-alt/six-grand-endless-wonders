@@ -31,8 +31,8 @@ class: text-sm
 <v-clicks>
 
 - **07:00 – 11:00｜Ximending & Longshan Temple**
-  - Breakfast at **Yongfu Egg Pancake** (Exit 1, MRT Ximen; NT$50–80).
-  - Walk 18 mins to **Bangka Longshan Temple** for incense rituals & moon-block divination until 11:00.
+  - Breakfast at **Yonghe Soy Milk** (Exit 1, MRT Ximen; NT$50–80).
+  - Walk 18 mins at 08:30 to **Bangka Longshan Temple** for incense rituals & moon-block divination until 11:00.
 - **Afternoon｜Pingxi Line & Jiufen Old Street**
   - TRA train to **Shifen Old Street** for shared sky lanterns (~NT$200–250/group).
   - Dusk at **Jiufen**: **Lai A-Po Taro Balls**, 3rd-gen **A-Lan Caozaiguo**, & **Yuwan Bozai**.
@@ -56,7 +56,7 @@ Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: xiquinhosilva (CC
 </Credit>
 
 ---
-clicks: 4
+clicks: 6
 ---
 
 ### Day 01 · Journey Map
@@ -64,6 +64,10 @@ clicks: 4
 ## Temples, Lanterns & a Mountain Town
 
 <JourneyMap :day="1" />
+
+<Credit>
+Yonghe Soy Milk: KQuhen (CC BY-SA 4.0), via Wikimedia Commons
+</Credit>
 
 ---
 transition: fade
@@ -121,7 +125,7 @@ Four Four South Village: Hal Maa (CC BY-SA 4.0) · Miyahara: YangChen(TW) (CC BY
 </Credit>
 
 ---
-clicks: 5
+clicks: 6
 ---
 
 ### Day 02 · Journey Map
@@ -184,7 +188,7 @@ Tianhou Temple: Foxy Who (CC BY-SA 3.0) · Nine-Turns Lane: David Stanley (CC BY
 </Credit>
 
 ---
-clicks: 4
+clicks: 5
 ---
 
 ### Day 03 · Journey Map
