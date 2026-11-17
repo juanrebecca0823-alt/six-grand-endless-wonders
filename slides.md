@@ -42,8 +42,6 @@ class: text-sm
 <div class="grid grid-cols-[1.35fr_220px] gap-8 mt-3">
 <div class="pr-2">
 
-<v-clicks>
-
 - **07:00 – 11:00｜Ximending & Longshan Temple**
   - Breakfast at **Yonghe Soy Milk** (Exit 1, MRT Ximen; NT$50–80).
   - Walk 18 mins at 08:30 to **Bangka Longshan Temple** for incense rituals & moon-block divination until 11:00.
@@ -52,8 +50,6 @@ class: text-sm
   - Dusk at **Jiufen**: **Lai A-Po Taro Balls**, 3rd-gen **A-Lan Caozaiguo**, & **Yuwan Bozai** (~NT$300).
 - **Evening｜TCM & Night Market**
   - Acupuncture at **Changshengtang TCM Clinic** (NT$150–300), **Ningxia Night Market**, & stay at **CU Hotel Taipei** (NT$556).
-
-</v-clicks>
 
 > **Day 1 Estimated Cost:** ~ <span v-mark.underline.orange>NT$ 1,681</span> / person
 
@@ -94,14 +90,10 @@ class: text-sm
 <div class="grid grid-cols-[1.35fr_220px] gap-8 mt-3">
 <div class="pr-2">
 
-<v-clicks>
-
 - **09:00–11:30｜Xinyi District:** Visit **Four Four South Village** for panoramic **Taipei 101** photos.
 - **12:00–14:30｜Southbound Coach:** Intercity coach from Taipei Bus Station to Taichung (~2.5 hrs).
 - **14:30–16:30｜Miyahara Ophthalmology:** Drop bags at hostel; red-brick heritage & signature ice cream.
 - **16:30–21:00｜Shenji New Village & Greenway:** Artisan markets in renovated dorms & evening stroll at Taichung Eslite Park Lane.
-
-</v-clicks>
 
 <div class="text-xs [&_td]:!py-1 [&_th]:!py-1">
 
@@ -164,8 +156,6 @@ class: text-sm
 <div class="grid grid-cols-[1fr_230px] gap-6 mt-3">
 <div>
 
-<v-clicks>
-
 - **Morning｜Taiwan Tourist Shuttle to Lukang**
   - Board shuttle from Taichung Station (~1 hr via EasyCard).
   - Explore **Lukang Old Street**, **Nine-Turns Lane**, and **Lukang Tianhou Temple**.
@@ -173,8 +163,6 @@ class: text-sm
   - Taste local **flour rice noodles (Mianxianhu)**, **taro meatballs (Yuwan)**, and **ox-tongue pastries**.
 - **Evening｜Budget Return to Taoyuan Airport**
   - Take intercity coach directly from Taichung/Changhua to **Taoyuan Airport (TPE)** (skipping HSR to stay under NT$ 6,000).
-
-</v-clicks>
 
 > **Return Route:** `Lukang` ➔ `Taichung` ➔ `Taoyuan Airport (TPE)`
 
@@ -213,12 +201,16 @@ class: text-sm
 <div class="grid grid-cols-[1fr_200px] gap-6 mt-3">
 <div>
 
+<v-clicks>
+
 - **Day 1 · Taipei & Jiufen — NT$ 1,681**
   - Breakfast ($65), Train/Bus ($150), Sky Lantern ($60), Jiufen Food ($300), Ningxia Food ($300), TCM Acupuncture ($250), CU Hotel Taipei ($556)
 - **Day 2 · Taipei → Taichung — NT$ 2,090**
   - MRT/Bus ($50), Intercity Coach ($340), Miyahara Ice Cream ($300), Shenji & Greenway Meals ($500), Misc ($300), Taichung Hostel ($600)
 - **Day 3 · Lukang & Return — NT$ 1,300**
   - Lukang Tourist Shuttle ($180), Lukang Snacks ($350), Souvenirs ($250), Coach to Taoyuan Airport ($320), Buffer ($200)
+
+</v-clicks>
 
 > **Grand Total: ~ <span v-mark.underline.orange>NT$ 5,071 – 5,550</span> / Person** (Smart Coach Strategy saves > NT$ 1,200 vs. High Speed Rail!)
 
