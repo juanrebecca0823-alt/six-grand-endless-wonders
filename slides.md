@@ -213,16 +213,12 @@ class: text-sm
 <div class="grid grid-cols-[1fr_200px] gap-6 mt-3">
 <div>
 
-<v-clicks>
-
 - **Day 1 · Taipei & Jiufen — NT$ 1,681**
   - Breakfast ($65), Train/Bus ($150), Sky Lantern ($60), Jiufen Food ($300), Ningxia Food ($300), TCM Acupuncture ($250), CU Hotel Taipei ($556)
 - **Day 2 · Taipei → Taichung — NT$ 2,090**
   - MRT/Bus ($50), Intercity Coach ($340), Miyahara Ice Cream ($300), Shenji & Greenway Meals ($500), Misc ($300), Taichung Hostel ($600)
 - **Day 3 · Lukang & Return — NT$ 1,300**
   - Lukang Tourist Shuttle ($180), Lukang Snacks ($350), Souvenirs ($250), Coach to Taoyuan Airport ($320), Buffer ($200)
-
-</v-clicks>
 
 > **Grand Total: ~ <span v-mark.underline.orange>NT$ 5,071 – 5,550</span> / Person** (Smart Coach Strategy saves > NT$ 1,200 vs. High Speed Rail!)
 
