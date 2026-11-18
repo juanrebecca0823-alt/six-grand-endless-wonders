@@ -381,8 +381,6 @@ class: text-center
 
 **Presented by:** 何宣辰、阮紫瑄、曾筠淇、張詠皓、麥樂筠
 
-<div class="absolute bottom-6 left-6"><img :src="$asset('/qr.svg')" class="w-20 rounded bg-white p-1" /></div>
-
 <Credit>
 Taipei skyline: Man Ng (CC BY 2.0), via Wikimedia Commons
 </Credit>
