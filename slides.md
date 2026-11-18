@@ -269,7 +269,7 @@ class: text-sm
 </div>
 
 <Credit>
-Jiufen: our group · Miyahara: YangChen(TW) (CC BY 2.0) · Tianhou Temple: Foxy Who (CC BY-SA 3.0) — via Wikimedia Commons
+Jiufen: AI-Generated (Gemini) · Miyahara: YangChen(TW) (CC BY 2.0) · Tianhou Temple: Foxy Who (CC BY-SA 3.0) — via Wikimedia Commons
 </Credit>
 
 ---
@@ -346,7 +346,7 @@ class: text-xs
 - **Yonghe Soy Milk:** KQuhen (CC BY-SA 4.0), Wikimedia Commons
 - **Bangka Longshan Temple:** CEphoto, Uwe Aranas (CC BY-SA 3.0), Wikimedia Commons
 - **Shifen Old Street:** C.L. Kao (CC BY-SA 3.0), Wikimedia Commons
-- **Jiufen Old Street:** Taken by our group
+- **Jiufen Old Street:** AI-Generated (Gemini)
 - **TCM Acupuncture:** Kyle Hunter (Public Domain), Wikimedia Commons
 - **Ningxia Night Market:** 迷惘的人生 (CC BY-SA 2.0), Wikimedia Commons
 
