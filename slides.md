@@ -18,6 +18,52 @@ Cover: Jiufen Old Street at night — Sunkenbean (CC BY-SA 4.0), via Wikimedia C
 </Credit>
 
 ---
+class: text-sm
+---
+
+### Overview · Agenda
+
+## Table of Contents
+
+<div class="grid grid-cols-2 gap-4 mt-6">
+  <Link to="3" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+    <div class="text-xs font-bold tracking-wider uppercase text-amber-700">01 · Day 01</div>
+    <div class="text-base font-bold mt-1 text-slate-800">Taipei & Mountain Towns</div>
+    <div class="text-xs text-slate-600 mt-1">Yonghe Soy Milk, Longshan Temple, Shifen, Jiufen, TCM & Ningxia Night Market</div>
+  </Link>
+
+  <Link to="5" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+    <div class="text-xs font-bold tracking-wider uppercase text-amber-700">02 · Day 02</div>
+    <div class="text-base font-bold mt-1 text-slate-800">Heading South to Taichung</div>
+    <div class="text-xs text-slate-600 mt-1">Four Four South Village, Taipei 101, Miyahara Eye Hospital & Shenji New Village</div>
+  </Link>
+
+  <Link to="8" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+    <div class="text-xs font-bold tracking-wider uppercase text-amber-700">03 · Day 03</div>
+    <div class="text-base font-bold mt-1 text-slate-800">Lukang Heritage & Return</div>
+    <div class="text-xs text-slate-600 mt-1">Lukang Old Street, Nine-Turns Lane, Tianhou Temple & Taoyuan Airport (TPE)</div>
+  </Link>
+
+  <Link to="11" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+    <div class="text-xs font-bold tracking-wider uppercase text-amber-700">04 · Budget</div>
+    <div class="text-base font-bold mt-1 text-slate-800">Financial Summary</div>
+    <div class="text-xs text-slate-600 mt-1">3-Day Total Budget Overview (Under NT$ 6,000 / Person)</div>
+  </Link>
+
+  <Link to="12" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+    <div class="text-xs font-bold tracking-wider uppercase text-amber-700">05 · Culture</div>
+    <div class="text-base font-bold mt-1 text-slate-800">Cultural & Historical Insights</div>
+    <div class="text-xs text-slate-600 mt-1">Heritage Context Behind Our Six Destinations</div>
+  </Link>
+
+  <Link to="14" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+    <div class="text-xs font-bold tracking-wider uppercase text-amber-700">06 · Credits</div>
+    <div class="text-base font-bold mt-1 text-slate-800">Photo Credits & Sources</div>
+    <div class="text-xs text-slate-600 mt-1">Wikimedia Commons & Attribution References</div>
+  </Link>
+</div>
+
+---
 clicks: 7
 ---
 
