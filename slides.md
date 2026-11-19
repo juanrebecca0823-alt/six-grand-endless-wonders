@@ -199,14 +199,14 @@ class: text-sm
 
 ## Century-Old Town & Airport Departure
 
-<div class="grid grid-cols-[1fr_230px] gap-6 mt-3">
+<div class="grid grid-cols-[1fr_220px] gap-5 mt-2">
 <div>
 
 - **Morning｜Taiwan Tourist Shuttle to Lukang**
   - Board shuttle from Taichung Station (~1 hr via EasyCard).
   - Explore **Lukang Old Street**, **Nine-Turns Lane**, and **Lukang Tianhou Temple**.
 - **Afternoon｜Traditional Lukang Delicacies**
-  - Taste local **flour rice noodles (Mianxianhu)**, **taro meatballs (Yuwan)**, and **ox-tongue pastries**.
+  - Taste local **flour rice noodles (Mianxianhu)**, **taro balls**, and **ox-tongue pastries**.
 - **Evening｜Budget Return to Taoyuan Airport**
   - Take intercity coach directly from Taichung/Changhua to **Taoyuan Airport (TPE)** (skipping HSR to stay under NT$ 6,000).
 
@@ -214,13 +214,19 @@ class: text-sm
 
 </div>
 <div class="flex flex-col gap-2">
-  <Pic src="/photos/tianhou.jpg" label="Lukang Tianhou Temple" class="h-40" />
-  <Pic src="/photos/nineturns.jpg" label="Nine-Turns Lane" class="h-40" />
+  <Pic src="/photos/tianhou.jpg" label="Lukang Tianhou Temple" class="h-30" />
+  <Pic src="/photos/nineturns.jpg" label="Nine-Turns Lane" class="h-30" />
 </div>
 </div>
 
+<div class="grid grid-cols-3 gap-3 mt-2.5">
+  <Pic src="/photos/mianxianhu.jpg" label="Mianxianhu (Vermicelli)" class="h-24" />
+  <Pic src="/photos/taroballs.jpg" label="Taro Balls" class="h-24" />
+  <Pic src="/photos/oxtongue.jpg" label="Lukang Ox-Tongue Pastry" class="h-24" />
+</div>
+
 <Credit>
-Tianhou Temple: Foxy Who (CC BY-SA 3.0) · Nine-Turns Lane: David Stanley (CC BY 2.0) — via Wikimedia Commons
+Tianhou Temple: Foxy Who (CC BY-SA 3.0) · Nine-Turns Lane: David Stanley (CC BY 2.0) · Mianxianhu: Jjj84206 (CC BY-SA 4.0) · Taro Balls: Fumikas Sagisavas (CC0) · Ox-Tongue Pastry: neverbutterfly (CC BY 2.0) — via Wikimedia Commons
 </Credit>
 
 ---
@@ -350,6 +356,7 @@ class: text-xs
 - **Lukang Tianhou Temple:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
 - **Lukang Old Street:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
 - **Nine-Turns Lane:** David Stanley (CC BY 2.0), Wikimedia Commons
+- **Lukang Delicacies:** Jjj84206 (CC BY-SA 4.0) · Fumikas Sagisavas (CC0) · neverbutterfly (CC BY 2.0)
 - **Lukang Red-Brick Street:** AI-Generated Scene Illustration
 - **Taipei Skyline (Closing):** Man Ng (CC BY 2.0), Wikimedia Commons
 - **Taiwan Map Boundaries:** MOI NLSC (OGDL 1.0) via taiwan-atlas
