@@ -361,7 +361,7 @@ const landTransform = computed(() => `translate(${-cam.x * scale.value},${-cam.y
               <circle cx="44" cy="18" r="1.6" fill="#fde047" class="sparkle s2" />
               <circle cx="76" cy="20" r="1.8" fill="#fde047" class="sparkle s3" />
             </svg>
-            <div class="jiaobei-label">擲筊 Moon-Block Divination · <b>聖筊 Shengjiao (Yes!)</b></div>
+            <div class="jiaobei-label">Moon-Block Divination · <b>Shengjiao (Yes!)</b></div>
           </div>
         </div>
       </Transition>

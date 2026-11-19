@@ -281,53 +281,11 @@ class: text-sm
 ## Bangka Longshan Temple & Jiaobei Divination
 
 <div class="grid grid-cols-[1.05fr_1fr] gap-6 mt-4 items-center">
-  <div>
-    <Pic src="/photos/longshan.jpg" label="Bangka Longshan Temple (1738)" class="h-44 w-full" />
-    <p class="mt-3 !mb-0 leading-relaxed"><b>Bangka Longshan Temple (1738):</b> Built by Fujian settlers, blending Buddhist, Taoist, and folk deities; famous for intricate woodcarvings and <i>Jiaobei</i> (擲筊) moon-block divination.</p>
-  </div>
-
-  <div class="rounded-xl border border-amber-200 bg-amber-50/70 p-4 flex flex-col gap-3">
-    <div class="text-xs font-bold tracking-wider uppercase text-amber-800">Jiaobei (擲筊) · Three Outcomes</div>
-
-    <div class="flex items-center gap-3 bg-white/80 rounded-lg p-2.5 border border-amber-100">
-      <svg viewBox="0 0 96 42" width="76" height="34" class="shrink-0">
-        <path d="M8,32 C12,14 34,12 42,28 C32,33 18,35 8,32 Z" fill="#fecaca" stroke="#991b1b" stroke-width="2" />
-        <path d="M13,30 C20,21 32,20 38,27" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" />
-        <path d="M54,28 C62,12 84,14 88,32 C78,35 64,33 54,28 Z" fill="#dc2626" stroke="#7f1d1d" stroke-width="2" />
-        <path d="M61,22 C69,17 78,18 83,24" fill="none" stroke="#f87171" stroke-width="1.8" stroke-linecap="round" />
-      </svg>
-      <div class="leading-tight">
-        <div class="font-bold text-slate-800 text-xs">聖筊 Shengjiao <span class="text-emerald-700">(Yes)</span></div>
-        <div class="text-[11px] text-slate-600 mt-0.5">1 Flat + 1 Curved · Approved / Good fortune</div>
-      </div>
-    </div>
-
-    <div class="flex items-center gap-3 bg-white/80 rounded-lg p-2.5 border border-amber-100">
-      <svg viewBox="0 0 96 42" width="76" height="34" class="shrink-0">
-        <path d="M8,32 C12,14 34,12 42,28 C32,33 18,35 8,32 Z" fill="#dc2626" stroke="#7f1d1d" stroke-width="2" />
-        <path d="M14,24 C21,18 31,17 37,22" fill="none" stroke="#f87171" stroke-width="1.8" stroke-linecap="round" />
-        <path d="M54,28 C62,12 84,14 88,32 C78,35 64,33 54,28 Z" fill="#dc2626" stroke="#7f1d1d" stroke-width="2" />
-        <path d="M61,22 C69,17 78,18 83,24" fill="none" stroke="#f87171" stroke-width="1.8" stroke-linecap="round" />
-      </svg>
-      <div class="leading-tight">
-        <div class="font-bold text-slate-800 text-xs">陰筊 Yinjiao <span class="text-rose-700">(No)</span></div>
-        <div class="text-[11px] text-slate-600 mt-0.5">2 Curved Sides Up · Disagreement / Not now</div>
-      </div>
-    </div>
-
-    <div class="flex items-center gap-3 bg-white/80 rounded-lg p-2.5 border border-amber-100">
-      <svg viewBox="0 0 96 42" width="76" height="34" class="shrink-0">
-        <path d="M8,32 C12,14 34,12 42,28 C32,33 18,35 8,32 Z" fill="#fecaca" stroke="#991b1b" stroke-width="2" />
-        <path d="M13,30 C20,21 32,20 38,27" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" />
-        <path d="M54,28 C62,12 84,14 88,32 C78,35 64,33 54,28 Z" fill="#fecaca" stroke="#991b1b" stroke-width="2" />
-        <path d="M59,27 C66,20 78,21 84,30" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round" />
-      </svg>
-      <div class="leading-tight">
-        <div class="font-bold text-slate-800 text-xs">笑筊 Xiaojiao <span class="text-amber-700">(Laughing)</span></div>
-        <div class="text-[11px] text-slate-600 mt-0.5">2 Flat Sides Up · Unclear, clarify & toss again</div>
-      </div>
-    </div>
-  </div>
+<div>
+  <Pic src="/photos/longshan.jpg" label="Bangka Longshan Temple (1738)" class="h-44 w-full" />
+  <p class="mt-3 !mb-0 leading-relaxed"><b>Bangka Longshan Temple (1738):</b> Built by Fujian settlers, blending Buddhist, Taoist, and folk deities; famous for intricate woodcarvings and <i>Jiaobei</i> moon-block divination.</p>
+</div>
+<JiaobeiDiagram />
 </div>
 
 <Credit>
@@ -345,17 +303,17 @@ class: text-sm
 <div class="flex flex-col gap-5 mt-5">
   <div class="grid grid-cols-[150px_1fr_140px] gap-4 items-center">
     <Pic src="/photos/acupuncture.jpg" label="TCM Acupuncture" class="h-32 w-full" />
-    <p class="!my-0 leading-relaxed"><b>1. TCM Acupuncture & <i>Qi</i> (氣) Meridians:</b> Traditional Chinese Medicine balances the flow of <i>Qi</i> by stimulating specific acupoints (穴道) along meridian channels to relieve fatigue and restore harmony.</p>
+    <p class="!my-0 leading-relaxed"><b>1. TCM Acupuncture & <i>Qi</i> Meridians:</b> Traditional Chinese Medicine balances the flow of <i>Qi</i> by stimulating specific acupoints along meridian channels to relieve fatigue and restore harmony.</p>
     <Pic src="/photos/meridian.jpg" label="Meridian & Acupoints" class="h-32 w-full" />
   </div>
   <div class="flex gap-4 items-center">
-    <Pic src="/photos/nineturns.jpg" label="Nine-Turns Lane" class="h-32 w-44 shrink-0" />
-    <p class="!my-0 leading-relaxed"><b>2. Lukang Historic Port Town:</b> Once Taiwan's second-largest port ("One Tainan, Two Lukang, Three Mengjia" — 一府二鹿三艋舺), preserving red-brick alleys and wind-shielding <i>Nine-Turns Lanes</i>.</p>
+    <Pic src="/photos/lukang-old-street.jpg" label="Lukang Old Street" class="h-32 w-44 shrink-0" />
+    <p class="!my-0 leading-relaxed"><b>2. Lukang Historic Port Town:</b> Once Taiwan's second-largest port ("One Tainan, Two Lukang, Three Mengjia"), preserving red-brick alleys and wind-shielding <i>Nine-Turns Lanes</i>.</p>
   </div>
 </div>
 
 <Credit>
-Acupuncture: Kyle Hunter (Public Domain) · Meridian Chart: Wellcome Collection (CC BY 4.0) · Nine-Turns Lane: David Stanley (CC BY 2.0) — via Wikimedia Commons
+Acupuncture: Kyle Hunter (Public Domain) · Meridian Chart: Wellcome Collection (CC BY 4.0) · Lukang Old Street: Foxy Who (CC BY-SA 3.0) — via Wikimedia Commons
 </Credit>
 
 ---
@@ -390,6 +348,7 @@ class: text-xs
 - **Miyahara Ice Cream:** Taken by our group
 - **Shenji New Village:** Wpcpey (CC BY 4.0), Wikimedia Commons
 - **Lukang Tianhou Temple:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
+- **Lukang Old Street:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
 - **Nine-Turns Lane:** David Stanley (CC BY 2.0), Wikimedia Commons
 - **Lukang Red-Brick Street:** AI-Generated Scene Illustration
 - **Taipei Skyline (Closing):** Man Ng (CC BY 2.0), Wikimedia Commons
