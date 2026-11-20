@@ -25,7 +25,8 @@ export const modes: Record<Mode, { label: string, color: string, icon: string }>
 
 export const journeys: Record<number, Stop[]> = {
   1: [
-    { name: 'Ximending (Yonghe Soy Milk)', time: '07:00', lon: 121.5078, lat: 25.0422, thumb: '/photos/yonghe.jpg', side: 'top' },
+    { name: 'Taipei Songshan Airport (TSA)', time: '06:20', lon: 121.5525, lat: 25.0697, thumb: '/photos/songshan-airport.jpg', side: 'right' },
+    { name: 'Ximending (Yonghe Soy Milk)', time: '07:00', lon: 121.5078, lat: 25.0422, thumb: '/photos/yonghe.jpg', side: 'top', leg: { mode: 'bus', note: 'Bus · ~30 min' } },
     { name: 'Longshan Temple', time: '08:30', lon: 121.4999, lat: 25.0372, thumb: '/photos/longshan.jpg', side: 'bottom', leg: { mode: 'walk', note: 'Walk · ~18 min' }, effect: 'jiaobei' },
     { name: 'Shifen Old Street', time: 'Afternoon', lon: 121.7756, lat: 25.0418, thumb: '/photos/shifen.jpg', side: 'bottom', leg: { mode: 'train', note: 'TRA · ~1 hr' } },
     { name: 'Jiufen Old Street', time: 'Dusk', lon: 121.8437, lat: 25.1093, thumb: '/jiufen.jpg', side: 'left', leg: { mode: 'bus', note: 'Bus · ~1 hr' } },
@@ -44,6 +45,6 @@ export const journeys: Record<number, Stop[]> = {
     { name: 'Taichung Station', time: 'Morning', lon: 120.6853, lat: 24.1372, thumb: '/photos/miyahara.jpg', side: 'right' },
     { name: 'Lukang Old Town', time: 'Late morning', lon: 120.4340, lat: 24.0560, thumb: '/photos/tianhou.jpg', side: 'bottom', leg: { mode: 'bus', note: 'Shuttle · ~1 hr' } },
     { name: 'Taichung Station', time: 'Evening', lon: 120.6853, lat: 24.1372, thumb: '/photos/miyahara.jpg', side: 'right', leg: { mode: 'bus', note: 'Shuttle · ~45 min' } },
-    { name: 'Taoyuan Airport (TPE)', time: 'Departure', lon: 121.2332, lat: 25.0777, thumb: '/photos/taoyuan-airport.jpg', side: 'left', leg: { mode: 'coach', note: 'Coach · ~2 hrs' } },
+    { name: 'Taipei Songshan Airport (TSA)', time: 'Departure', lon: 121.5525, lat: 25.0697, thumb: '/photos/songshan-airport.jpg', side: 'left', leg: { mode: 'coach', note: 'Coach · ~2.5 hrs' } },
   ],
 }
