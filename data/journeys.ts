@@ -38,12 +38,12 @@ export const journeys: Record<number, Stop[]> = {
     { name: 'Taipei Bus Station', time: '12:00', lon: 121.5175, lat: 25.0492, thumb: '/photos/taipei-bus-station.jpg', side: 'left', leg: { mode: 'walk', note: 'MRT · ~25 min' } },
     { name: 'Miyahara Eye Hospital', time: '14:30', lon: 120.6838, lat: 24.1375, thumb: '/photos/miyahara.jpg', side: 'right', leg: { mode: 'coach', note: 'Coach · ~2.5 hrs' } },
     { name: 'Shenji New Village', time: '16:30', lon: 120.6627, lat: 24.1446, thumb: '/photos/shenji.jpg', side: 'left', leg: { mode: 'bus', note: 'Bus · ~20 min' } },
-    { name: 'Taichung Eslite Park Lane', time: 'Evening', lon: 120.6634, lat: 24.1515, thumb: '/photos/shenji.jpg', side: 'left', leg: { mode: 'walk', note: 'Walk · ~15 min' } },
+    { name: 'Taichung Eslite Park Lane', time: 'Evening', lon: 120.6634, lat: 24.1515, thumb: '/photos/parklane.jpg', side: 'left', leg: { mode: 'walk', note: 'Walk · ~15 min' } },
   ],
   3: [
     { name: 'Taichung Station', time: 'Morning', lon: 120.6853, lat: 24.1372, thumb: '/photos/miyahara.jpg', side: 'right' },
     { name: 'Lukang Old Town', time: 'Late morning', lon: 120.4340, lat: 24.0560, thumb: '/photos/tianhou.jpg', side: 'bottom', leg: { mode: 'bus', note: 'Shuttle · ~1 hr' } },
     { name: 'Taichung Station', time: 'Evening', lon: 120.6853, lat: 24.1372, thumb: '/photos/miyahara.jpg', side: 'right', leg: { mode: 'bus', note: 'Shuttle · ~45 min' } },
-    { name: 'Taoyuan Airport (TPE)', time: 'Departure', lon: 121.2332, lat: 25.0777, thumb: '/photos/skyline.jpg', side: 'left', leg: { mode: 'coach', note: 'Coach · ~2 hrs' } },
+    { name: 'Taoyuan Airport (TPE)', time: 'Departure', lon: 121.2332, lat: 25.0777, thumb: '/photos/taoyuan-airport.jpg', side: 'left', leg: { mode: 'coach', note: 'Coach · ~2 hrs' } },
   ],
 }

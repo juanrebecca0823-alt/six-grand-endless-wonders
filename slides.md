@@ -38,25 +38,25 @@ class: text-sm
     <div class="text-xs text-slate-600 mt-1">Four Four South Village, Taipei 101, Miyahara Eye Hospital & Shenji New Village</div>
   </Link>
 
-  <Link to="8" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+  <Link to="7" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
     <div class="text-xs font-bold tracking-wider uppercase text-amber-700">03 · Day 03</div>
     <div class="text-base font-bold mt-1 text-slate-800">Lukang Heritage & Return</div>
     <div class="text-xs text-slate-600 mt-1">Lukang Old Street, Nine-Turns Lane, Tianhou Temple & Taoyuan Airport (TPE)</div>
   </Link>
 
-  <Link to="11" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+  <Link to="9" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
     <div class="text-xs font-bold tracking-wider uppercase text-amber-700">04 · Budget</div>
     <div class="text-base font-bold mt-1 text-slate-800">Financial Summary</div>
     <div class="text-xs text-slate-600 mt-1">3-Day Total Budget Overview (Under NT$ 6,000 / Person)</div>
   </Link>
 
-  <Link to="12" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+  <Link to="10" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
     <div class="text-xs font-bold tracking-wider uppercase text-amber-700">05 · Culture</div>
     <div class="text-base font-bold mt-1 text-slate-800">Cultural & Historical Insights</div>
     <div class="text-xs text-slate-600 mt-1">Heritage Context Behind Our Six Destinations</div>
   </Link>
 
-  <Link to="14" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
+  <Link to="12" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
     <div class="text-xs font-bold tracking-wider uppercase text-amber-700">06 · Credits</div>
     <div class="text-base font-bold mt-1 text-slate-800">Photo Credits & Sources</div>
     <div class="text-xs text-slate-600 mt-1">Wikimedia Commons & Attribution References</div>
@@ -122,7 +122,7 @@ clicks: 7
 <JourneyMap :day="2" />
 
 <Credit>
-Taipei 101: AngMoKio (CC BY-SA 3.0) · Taipei Bus Station: Chen Hao Hsuan (CC BY 2.0) — via Wikimedia Commons
+Taipei 101: AngMoKio (CC BY-SA 3.0) · Taipei Bus Station: Chen Hao Hsuan (CC BY 2.0) · Park Lane by CMP: Wpcpey (CC BY 4.0) — via Wikimedia Commons
 </Credit>
 
 ---
@@ -165,23 +165,6 @@ Four Four South Village: Hal Maa (CC BY-SA 4.0) · Miyahara: YangChen(TW) (CC BY
 </Credit>
 
 ---
-
-### Day 02 · Route & Local Delicacy
-
-## Route: `Taipei` ➔ *(2.5 hrs Coach)* ➔ `Taichung`
-
-<div class="flex justify-center items-end gap-6 mt-4">
-  <div class="text-center">
-    <Pic src="/photos/miyahara.jpg" label="Miyahara Eye Hospital, Taichung" class="h-64 w-96" />
-    <p class="!my-1 text-xs italic">Photo / YangChen(TW), CC BY 2.0, via Wikimedia Commons</p>
-  </div>
-  <div class="text-center">
-    <Pic src="/icecream.jpg" label="Miyahara Ice Cream" class="h-64 w-40" />
-    <p class="!my-1 text-xs italic">Photo / Taken by our group</p>
-  </div>
-</div>
-
----
 clicks: 5
 ---
 
@@ -190,6 +173,10 @@ clicks: 5
 ## Lukang Day Trip & Airport Run
 
 <JourneyMap :day="3" />
+
+<Credit>
+Taoyuan Airport: Illinois_Roadbuff (CC BY-SA 4.0), via Wikimedia Commons
+</Credit>
 
 ---
 class: text-sm
@@ -228,19 +215,6 @@ class: text-sm
 <Credit>
 Tianhou Temple: Foxy Who (CC BY-SA 3.0) · Nine-Turns Lane: David Stanley (CC BY 2.0) · Mianxianhu: Jjj84206 (CC BY-SA 4.0) · Taro Balls: Fumikas Sagisavas (CC0) · Ox-Tongue Pastry: neverbutterfly (CC BY 2.0) — via Wikimedia Commons
 </Credit>
-
----
-transition: fade
----
-
-### Day 03 · Scene Preview
-
-## Lukang Historic Red-Brick Street
-
-<div class="flex flex-col items-center">
-  <img :src="$asset('/lukang.jpg')" class="h-72 mx-auto rounded-lg shadow-lg" />
-  <p class="!my-0 mt-2 text-xs italic">Photo / AI-Generated Scene Illustration</p>
-</div>
 
 ---
 class: text-sm
@@ -351,13 +325,11 @@ class: text-xs
 - **Taipei 101:** AngMoKio (CC BY-SA 3.0), Wikimedia Commons
 - **Taipei Bus Station:** Chen Hao Hsuan (CC BY 2.0), Wikimedia Commons
 - **Miyahara Eye Hospital:** YangChen(TW) (CC BY 2.0), Wikimedia Commons
-- **Miyahara Ice Cream:** Taken by our group
-- **Shenji New Village:** Wpcpey (CC BY 4.0), Wikimedia Commons
-- **Lukang Tianhou Temple:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
-- **Lukang Old Street:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
+- **Shenji New Village & Park Lane:** Wpcpey (CC BY 4.0), Wikimedia Commons
+- **Lukang Tianhou Temple & Old Street:** Foxy Who (CC BY-SA 3.0), Wikimedia Commons
 - **Nine-Turns Lane:** David Stanley (CC BY 2.0), Wikimedia Commons
 - **Lukang Delicacies:** Jjj84206 (CC BY-SA 4.0) · Fumikas Sagisavas (CC0) · neverbutterfly (CC BY 2.0)
-- **Lukang Red-Brick Street:** AI-Generated Scene Illustration
+- **Taoyuan Airport (TPE):** Illinois_Roadbuff (CC BY-SA 4.0), Wikimedia Commons
 - **Taipei Skyline (Closing):** Man Ng (CC BY 2.0), Wikimedia Commons
 - **Taiwan Map Boundaries:** MOI NLSC (OGDL 1.0) via taiwan-atlas
 
