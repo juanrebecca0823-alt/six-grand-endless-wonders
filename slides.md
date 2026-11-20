@@ -29,7 +29,7 @@ class: text-sm
   <Link to="3" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
     <div class="text-xs font-bold tracking-wider uppercase text-amber-700">01 · Day 01</div>
     <div class="text-base font-bold mt-1 text-slate-800">Taipei & Mountain Towns</div>
-    <div class="text-xs text-slate-600 mt-1">Yonghe Soy Milk, Longshan Temple, Shifen, Jiufen, TCM & Ningxia Night Market</div>
+    <div class="text-xs text-slate-600 mt-1">Songshan Airport, Yonghe Soy Milk, Longshan Temple, Shifen, Jiufen & TCM</div>
   </Link>
 
   <Link to="5" class="!border-none block p-4 rounded-lg bg-amber-50/70 hover:bg-amber-100/80 transition">
@@ -64,7 +64,7 @@ class: text-sm
 </div>
 
 ---
-clicks: 8
+clicks: 7
 ---
 
 ### Day 01 · Journey Map
@@ -94,21 +94,21 @@ class: text-sm
 - **Afternoon｜Pingxi Line & Jiufen Old Street**
   - TRA train to **Shifen Old Street** for shared sky lanterns (~NT$200–250/group).
   - Dusk at **Jiufen**: **Lai A-Po Taro Balls**, 3rd-gen **A-Lan Caozaiguo**, & **Yuwan Bozai** (~NT$300).
-- **Evening｜TCM & Night Market**
-  - Acupuncture at **Changshengtang TCM Clinic** (NT$150–300), **Ningxia Night Market**, & stay at **CU Hotel Taipei** (NT$556).
+- **Evening｜TCM Acupuncture & Stay**
+  - Acupuncture at **Changshengtang TCM Clinic** (NT$150–300) & stay at **CU Hotel Taipei** (NT$556).
 
-> **Day 1 Estimated Cost:** ~ <span v-mark.underline.orange>NT$ 1,696</span> / person
+> **Day 1 Estimated Cost:** ~ <span v-mark.underline.orange>NT$ 1,396</span> / person
 
 </div>
 <div class="flex flex-col gap-4">
   <Pic src="/photos/longshan.jpg" label="Bangka Longshan Temple" class="h-26" />
   <Pic src="/photos/shifen.jpg" label="Shifen Old Street · Sky Lanterns" class="h-26" />
-  <Pic src="/photos/ningxia.jpg" label="Ningxia Night Market" class="h-26" />
+  <Pic src="/photos/acupuncture.jpg" label="TCM Acupuncture" class="h-26" />
 </div>
 </div>
 
 <Credit>
-Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: C.L. Kao (CC BY-SA 3.0) · Ningxia: 迷惘的人生 (CC BY-SA 2.0) — via Wikimedia Commons
+Longshan Temple: CEphoto, Uwe Aranas (CC BY-SA 3.0) · Shifen: C.L. Kao (CC BY-SA 3.0) · Acupuncture: Kyle Hunter (Public Domain) — via Wikimedia Commons
 </Credit>
 
 ---
@@ -227,14 +227,14 @@ class: text-sm
 <div class="grid grid-cols-[1fr_200px] gap-6 mt-3">
 <div>
 
-- **Day 1 · Taipei & Jiufen — NT$ 1,696**
-  - Breakfast ($65), Train/Bus ($165), Sky Lantern ($60), Jiufen Food ($300), Ningxia Food ($300), TCM Acupuncture ($250), CU Hotel Taipei ($556)
+- **Day 1 · Taipei & Jiufen — NT$ 1,396**
+  - Breakfast ($65), Train/Bus ($165), Sky Lantern ($60), Jiufen Food ($300), TCM Acupuncture ($250), CU Hotel Taipei ($556)
 - **Day 2 · Taipei → Taichung — NT$ 2,090**
   - MRT/Bus ($50), Intercity Coach ($340), Miyahara Ice Cream ($300), Shenji & Greenway Meals ($500), Misc ($300), Taichung Hostel ($600)
 - **Day 3 · Lukang & Return — NT$ 1,300**
   - Lukang Tourist Shuttle ($180), Lukang Snacks ($350), Souvenirs ($250), Coach to Songshan Airport ($320), Buffer ($200)
 
-> **Grand Total: ~ <span v-mark.underline.orange>NT$ 5,086 – 5,565</span> / Person** (Smart Coach Strategy saves > NT$ 1,200 vs. High Speed Rail!)
+> **Grand Total: ~ <span v-mark.underline.orange>NT$ 4,786 – 5,265</span> / Person** (Smart Coach Strategy saves > NT$ 1,200 vs. High Speed Rail!)
 
 </div>
 <div class="flex flex-col gap-2">
@@ -311,7 +311,6 @@ class: text-xs
 - **Jiufen Old Street:** AI-Generated (Gemini)
 - **TCM Acupuncture:** Kyle Hunter (Public Domain), Wikimedia Commons
 - **TCM Meridian Chart:** Wellcome Collection (CC BY 4.0), Wikimedia Commons
-- **Ningxia Night Market:** 迷惘的人生 (CC BY-SA 2.0), Wikimedia Commons
 
 </div>
 <div>
